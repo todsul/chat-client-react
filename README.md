@@ -1,1 +1,1 @@
-# chat-react-client
+# chat-client-react
